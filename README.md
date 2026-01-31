@@ -1,1 +1,1 @@
-# CTD Machine Learning Course - Summer 2025
+# Data Mining and Warehousing - Fall 2025
